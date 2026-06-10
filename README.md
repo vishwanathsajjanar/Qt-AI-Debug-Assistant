@@ -27,4 +27,5 @@ An intelligent Qt-based desktop application that transforms raw logs into action
 ---
 
 ## 🖥️ UI Preview
-
+[UI Preview](screenshots/Project_flow_chart.png)
+[UI Preview](screenshots/main_ui.png)
